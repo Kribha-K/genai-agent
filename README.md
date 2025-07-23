@@ -9,6 +9,6 @@ How It Works
 Run main.py to load CSV files into ecommerce.db.
 
 Start the FastAPI server by using
-uvicorn visualization:app --reload
+uvicorn agent_api:app --reload
 Open http://127.0.0.1:8000/docs to test your questions.
 
